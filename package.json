@@ -1,0 +1,11 @@
+{
+  "name": "ifttt-connection",
+  "version": "1.0.1",
+  "description": "a javascript interface for ifttt connections used for building service connections",
+  "main": "src/perform.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
